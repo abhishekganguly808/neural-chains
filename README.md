@@ -24,7 +24,7 @@ This project investigates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/randomness-in-PINNs.git
+git clone https://github.com/abhishekganguly808/randomness-in-PINNs.git
 cd randomness-in-PINNs
 ```
 
